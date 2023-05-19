@@ -4,7 +4,7 @@ plugins {
 	id 'java'
 }
 
-group = 'com.example.antifraud'
+group = 'antifraud'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 
@@ -30,4 +30,5 @@ dependencies {
 
 	implementation group: 'org.hibernate', name: 'hibernate-validator', version: '6.1.0.Final'
 }
+
 
